@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/tuongh/demo/node_modules/react-native/React/Modules/RCTDevMenu.mm \
+  /Users/tuongh/demo/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/tuongh/demo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/tuongh/demo/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/tuongh/demo/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h
